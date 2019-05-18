@@ -1,7 +1,7 @@
 <?php declare(strict_types=1);
 
 namespace AbcTest\Learn;
-
+/* awdawdawd*/
 class L01Function
 {
     public function run()
